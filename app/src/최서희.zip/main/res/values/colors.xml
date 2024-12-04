@@ -1,0 +1,9 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#0000FF</color>
+    <color name="buttonBackground">#6200EE</color>
+    <color name="buttonPressed">#FF5722</color>
+    <color name="buttonDisabled">#BDBDBD</color>
+</resources>
