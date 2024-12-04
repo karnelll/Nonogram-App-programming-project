@@ -33,4 +33,4 @@ You can watch the gameplay video in two ways:
    [Click here to download and watch](Nonogram.webm)
 
 2. **View Online**  
-   [Watch on GitHub Pages](https://karnelll.github.io/Nanogram-App-programming-project)
+   [Watch on GitHub Pages](https://karnelll.github.io/Nonogram-App-programming-project)
