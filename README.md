@@ -24,3 +24,10 @@ A mobile application for solving and playing Nonograms (a type of picture logic 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/karnelll/Nanogram-App-programming-project.git
+
+## 🎥 Gameplay Video
+
+<video controls width="600">
+    <source src="Nonogram.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video>
