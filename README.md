@@ -27,7 +27,5 @@ A mobile application for solving and playing Nonograms (a type of picture logic 
 
 ## 🎥 Gameplay Video
 
-<video controls width="600">
-    <source src="Nonogram.webm" type="video/webm">
-  [![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](Nonogram.webm)
-</video>
+[Click here to download and watch](Nonogram.webm)
+
