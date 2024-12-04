@@ -27,5 +27,10 @@ A mobile application for solving and playing Nonograms (a type of picture logic 
 
 ## 🎥 Gameplay Video
 
-[Click here to download and watch](Nonogram.webm)
+You can watch the gameplay video in two ways:
 
+1. **Direct Download**  
+   [Click here to download and watch](Nonogram.webm)
+
+2. **View Online**  
+   [Watch on GitHub Pages](https://karnelll.github.io/Nanogram-App-programming-project)
