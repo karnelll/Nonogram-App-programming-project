@@ -1,4 +1,4 @@
-# Nonogram App (Nonogram-App-programming-project)
+# Nonogram App (App-programming-project)
 
 A mobile application for solving and playing Nonograms (a type of picture logic puzzle). This project is designed for Android devices and developed using **Java** in Android Studio.
 
